@@ -2,6 +2,6 @@
 
 ![https://extension.uned.es/actividad/idactividad/47781](./openlab.png)
 
-OpenLab es una iniciativa por parte de estudiantes de la UNED que buscar crear un espacio de colaboración y aprendizaje en torno a la tecnología.
+OpenLab UNED Madrid Sur (Móstoles) es una iniciativa abierta de colaboración y aprendizaje práctico en tecnología. El objetivo es fomentar el trabajo en equipo, la curiosidad y la participación de estudiantes en proyectos tecnológicos de carácter libre, creativo y formativo.
 
 [extension.uned.es/actividad/OpenLab](https://extension.uned.es/actividad/idactividad/47781)
