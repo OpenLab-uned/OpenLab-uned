@@ -1,6 +1,6 @@
 # OpenLab
 
-![](OpenLab-uned/openlab.svg)
+![](OpenLab-uned/openlab.png)
 
 OpenLab es una iniciativa por parte de estudiantes de la UNED que buscar crear un espacio de colaboración y aprendizaje en torno a la tecnología.
 
